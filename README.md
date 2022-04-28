@@ -1,8 +1,8 @@
-# Lab 28 Django CRUD
+# Lab 42 Pythonisms
 
 **Author**: Alex Payne
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)  
-**PR**: https://github.com/DrPayne25/pythonisms/pull/3
+**PR**: https://github.com/DrPayne25/pythonisms/pull/1
 
 ## Overview
 This is a wrapper that will divide smartly which means it will throw and error up if you try to divide by 0 it will also calculate the time it took for the function to run via the timer_func
