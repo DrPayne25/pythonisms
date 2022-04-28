@@ -47,7 +47,7 @@ class Stack:
     return reversed_generator()
 
   def __len__(self):
-    return len(list(iter(self)))
+    return len(iter(self))
 
   def __eq__(self, other):
     return list(self) == list(other)
